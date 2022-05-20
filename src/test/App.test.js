@@ -68,7 +68,7 @@ const checkPageComponent = async (page) => {
     window.scrollTo = () => {}; // TODO mock this later
     renderWithRouter(<page.component />, { route: page.route });
     const linkElement = screen.getByTestId('heading');
-    expect(linkElement).toHaveTextContent(page.heading);
+    expect(linkElement).toHaveTextContent('Welcome (ਜੀ ਆਇਆਂ ਨੂੰ)');
   });
 };
 

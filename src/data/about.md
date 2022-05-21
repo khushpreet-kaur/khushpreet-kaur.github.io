@@ -10,7 +10,7 @@ I am learning to write quality code, build teams, manage people, shape culture, 
 
 # Some history
 
-My uncle/ਫੁੱਫੜ ਜੀ (Dad's sister's husband) gifted me a computer in 2005 when I was in school. I had seen a computer that used to lay in my school's computer lab, I have no idea why weren't we allowed to go into that lab and use a computer, probably the school had no money to get it repaired if anything was done wrong by students - so computer lab was more like a temple, we had to remove our shoes and sit quietly and watch our teacher clicking on the screen.  Even then, I would eagerly wait for computer class.  
+My uncle/ਫੁੱਫੜ ਜੀ (Dad's sister's husband) gifted me and my brother a computer in 2005. I had seen a computer that used to lay in my school's computer lab, I have no idea why weren't we allowed to go into that lab and use a computer, probably because the school did't have enough money to get it repaired if any damage was done by students - so computer lab was more like a temple, we had to remove our shoes and sit quietly and watch our teacher clicking on the screen.  Even then, I would eagerly wait for computer class.  
 Anyway, I used MS paint a lot on my computer and mostly drew huts, some smileys and many more childish drawing.  My favourite games were Mario, and Tom and Jerry. Since the computer was shared by me and my brother - he mostly played some Harry potter, and car racing games - I could never beat him in those :/  
 Basically, I had always wondered but never really knew how to write code until my graduation. Probably, when a geeky kid was developing computer games, I was playing outdoors and I don't regret it. I believe there's no age to learn anything - I learn everyday!  
 
@@ -31,9 +31,9 @@ Basically, I had always wondered but never really knew how to write code until m
 - In 2015, I visited North East India, travelled to many different placed for a month 
     - saw many living root bridges for the first time in my life.
     - visited Nameri National park - saw about 100 lifers (a first-ever sighting of a bird species), [some pictures](https://www.flickr.com/photos/134246185@N05/albums/72157662309307379/with/24089538055/) taken by me.
-- In 2016, I did Mandani Valley trek in The Greeater Himalays - oh I have so many beautiful memories. I never wrote a blog about it myself, but if you want, you can check out [blog](https://www.rockyfeet.com/mandani-valley-trek-bird-checklist/) post by one of my friends about our adventrous trek.  
-- In 2017, I visited Nice, France - my first international trip. 
-- In 2018, I visited many places mainly in South India.
+- In 2016, I did Mandani Valley trek in The Greeater Himalayas - oh I have so many beautiful memories. I never wrote a blog about it myself, but if you want, you can check out [blog](https://www.rockyfeet.com/mandani-valley-trek-bird-checklist/) post by one of my friends about our adventrous trek.  
+- In 2017, I visited [Jim Corbett National Park](https://en.wikipedia.org/wiki/Jim_Corbett_National_Park) - first national park in India.
+- In 2018, I visited many places mainly in South India. I have plan to write blog about my trips - but I don't know when will that happen ;). 
 - In 2019, I visited Leh. Trip started from Leh to Changthang Wild life Sanctuary.  
 - In 2020, I barely traveled. I mostly stayed in my apartment and started sketching some birds (pencil on paper). A novice attempt to draw: [Scaly-breasted munia](https://www.instagram.com/p/B_XT9uEFkK-E4byw8dB3rHv5s9dDmsD0WFsyDQ0/), [Roufous treepie](https://www.instagram.com/p/B_auPyUFM-JaGMnxEeYPWCNrQwkZR0D7o0oHjo0/), [Purple Sunbird](https://www.instagram.com/p/B_W-U4PFwHRKWjgiYcasyIR-XSf22zPK2llhmE0/), [Tri-coloured Munia](https://www.instagram.com/p/CAS3SZpA2SWVqn8L_L1wMsDezmE-AJfGd93UHk0/) and others. 
 - In 2021, I hope to start traveling again.

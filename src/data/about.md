@@ -33,7 +33,9 @@ Basically, I had always wondered but never really knew how to write code until m
     - visited Nameri National park - saw about 100 lifers (a first-ever sighting of a bird species), [some pictures](https://www.flickr.com/photos/134246185@N05/albums/72157662309307379/with/24089538055/) taken by me.
 - In 2016, I did Mandani Valley trek in the Greater Himalayas - oh I have so many beautiful memories. I never wrote a blog about it myself, but if you want, you can check out [blog](https://www.rockyfeet.com/mandani-valley-trek-bird-checklist/) post by one of my friends about our adventrous trek.  
 - In 2017, I visited [Jim Corbett National Park](https://en.wikipedia.org/wiki/Jim_Corbett_National_Park) - first national park in India.
-- In 2018, I visited many places mainly in South India. I have plan to write blog about it - but I have no idea when will that happen ;). 
+- In 2018, I visited 
+    - Nice, France - my first international trip :D 
+    - Many places mainly in South India. I have been plannin to write blog about it - but I have no idea when will that happen ;). 
 - In 2019, I visited Leh. Trip started from Leh to Changthang Wild life Sanctuary.  
 - In 2020, I barely traveled. I mostly stayed in my apartment and started sketching some birds (pencil on paper). A novice attempt to draw: [Scaly-breasted munia](https://www.instagram.com/p/B_XT9uEFkK-E4byw8dB3rHv5s9dDmsD0WFsyDQ0/), [Roufous treepie](https://www.instagram.com/p/B_auPyUFM-JaGMnxEeYPWCNrQwkZR0D7o0oHjo0/), [Purple Sunbird](https://www.instagram.com/p/B_W-U4PFwHRKWjgiYcasyIR-XSf22zPK2llhmE0/), [Tri-coloured Munia](https://www.instagram.com/p/CAS3SZpA2SWVqn8L_L1wMsDezmE-AJfGd93UHk0/) and others. 
 - In 2021, I hope to start traveling again.

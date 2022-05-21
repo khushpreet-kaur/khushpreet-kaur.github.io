@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/khushpreet-kaur.github.io/static/css/main.e7a14858.chunk.css",
-    "main.js": "/khushpreet-kaur.github.io/static/js/main.a26395b8.chunk.js",
-    "main.js.map": "/khushpreet-kaur.github.io/static/js/main.a26395b8.chunk.js.map",
+    "main.js": "/khushpreet-kaur.github.io/static/js/main.d90213cf.chunk.js",
+    "main.js.map": "/khushpreet-kaur.github.io/static/js/main.d90213cf.chunk.js.map",
     "runtime-main.js": "/khushpreet-kaur.github.io/static/js/runtime-main.d4acffb7.js",
     "runtime-main.js.map": "/khushpreet-kaur.github.io/static/js/runtime-main.d4acffb7.js.map",
     "static/js/2.367d5602.chunk.js": "/khushpreet-kaur.github.io/static/js/2.367d5602.chunk.js",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.d4acffb7.js",
     "static/js/3.1f73af0d.chunk.js",
     "static/css/main.e7a14858.chunk.css",
-    "static/js/main.a26395b8.chunk.js"
+    "static/js/main.d90213cf.chunk.js"
   ]
 }

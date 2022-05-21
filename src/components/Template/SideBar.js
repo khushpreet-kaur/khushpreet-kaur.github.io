@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Khushpreet. I like building things.
         I am a postgraduate from <a href="https://puchd.ac.in/">Panjab University, Chandigarh</a>, and
-        current working in <a href="https://www.sony.co.in/">Sony India Software Centre as a Software Engineer </a>
+        current working in <a href="https://www.sony.co.in/">Sony India Software Centre </a> as a Technical Lead. 
       </p>
       <ul className="actions">
         <li>

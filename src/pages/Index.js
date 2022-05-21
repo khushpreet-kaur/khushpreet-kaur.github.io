@@ -20,7 +20,6 @@ const Index = () => (
         <Link to="/resume">resume</Link>, {' '}
         {/* <Link to="/projects">projects</Link>, {' '} */}
         <Link to="/blog">blog</Link>, {' '}
-        <Link to="/stats">stats</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
       {/* <p> Source available <a href="https://github.com/khushpreet-kaur">here</a>.</p> */}
